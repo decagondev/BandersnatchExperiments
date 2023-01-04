@@ -30,7 +30,7 @@ def data():
     return render_template(
         "data.html",
         count=APP.db.count(),
-        table=APP.db.table(),
+        table=APP.db.html_table(),
     )
 
 

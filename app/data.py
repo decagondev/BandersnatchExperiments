@@ -15,11 +15,11 @@ class Database:
     def reset(self):
         pass
 
-    def count(self):
+    def count(self) -> int:
         pass
 
-    def dataframe(self):
+    def dataframe(self) -> DataFrame:
         pass
 
-    def table(self):
+    def html_table(self) -> str:
         pass

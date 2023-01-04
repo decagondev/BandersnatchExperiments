@@ -15,6 +15,7 @@
 - HTML Templates
 - CSS Styles
 - API Framework
+- Miscellaneous Helper Files
 
 ### Top Features
 - `/data`: Tabular Data
@@ -31,6 +32,7 @@
 	- Chart function
 	- API integration
 3. Sprint 3: Machine Learning Model
+	- Notebook exploration
 	- Machine Learning interface class
 	- Model serialization
 	- API integration
