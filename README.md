@@ -1,4 +1,4 @@
-# Bandersnatch
+# Bandersnatch Project
 
 ### Tech Stack
 - Logic: Python3
@@ -18,17 +18,19 @@
 - Miscellaneous Helper Files
 - Sprint Specific Documentation
 
-### Features by URL
+### Primary Features by URL
 - `/`: Splash Page
 - `/data`: Tabular Data
 - `/view`: Dynamic Visualizations
 - `/model`: Interactive Machine Learning Model
 
 ### Primary Goals
+For best results, complete each sprint in order, before going on to the next sprint.
+
 1. Sprint 1: Database Operations
-	- Develop a DB interface class
+	- Develop a database interface class
 	- Create random data
-	- Populate the DB with at least 1000 datapoints
+	- Populate the database with at least 1000 datapoints
 2. Sprint 2: Dynamic Visualizations
 	- Notebook exploration
 	- Chart function
@@ -36,8 +38,8 @@
 3. Sprint 3: Machine Learning Model
 	- Notebook exploration
 	- Machine Learning interface class
-	- Model serialization
-	- API integration
+	- Model serialization (save and open)
+	- API model integration
 
 ### Stretch Goals
 - Use ElephantSQL instead of MongoDB
@@ -47,6 +49,6 @@
 - Add the ability for the user to reset & reseed the database
 - Add the ability for the user to re-train the machine learning model
 - Add the ability for the user to download a working serialized model and dataset
-- Add authentication to the sensitive pages
+- Add authentication to sensitive pages
 - Use a different set of features to train the model
 - Use your own dataset entirely
