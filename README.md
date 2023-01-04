@@ -48,3 +48,5 @@
 - Add the ability for the user to re-train the machine learning model
 - Add the ability for the user to download a working serialized model and dataset
 - Add authentication to the sensitive pages
+- Use a different set of features to train the model
+- Use your own dataset entirely
