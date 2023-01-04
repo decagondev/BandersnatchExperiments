@@ -105,7 +105,19 @@ if __name__ == '__main__':
 3. Practice statistical analysis in a notebook
 4. What can we learn about the data?
 
+```python
+from pandas import DataFrame
+from MonsterLab import Monster
+
+
+df = DataFrame(Monster().to_dict() for _ in range(10))
+print(df)
+
+```
+
 ---
 
 ### C. Populate the Database
-1. Use the database interface `seed()` method to populate the database
+1. Use the database interface `seed(amount)` method to populate the database
+2. Varify the number of rows created with the `count()` method
+3. Get ready for next Sprint - create a notebook for planning data visualization
