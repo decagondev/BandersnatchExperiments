@@ -16,6 +16,7 @@
 - CSS Styles
 - API Framework
 - Miscellaneous Helper Files
+- Sprint Specific Documentation
 
 ### Features by URL
 - `/`: Splash Page
@@ -43,3 +44,7 @@
 - Use Plotly instead of Altair
 - Use PyTorch instead of Scikit
 - Use FastAPI instead of Flask
+- Add the ability for the user to reset & seed the database
+- Add the ability for the user to re-train the machine learning model
+- Add the ability for the user to download a working serialized model
+- Add authentication to the sensitive pages
