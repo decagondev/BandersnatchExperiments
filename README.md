@@ -44,7 +44,7 @@
 - Use Plotly instead of Altair
 - Use PyTorch instead of Scikit
 - Use FastAPI instead of Flask
-- Add the ability for the user to reset & seed the database
+- Add the ability for the user to reset & reseed the database
 - Add the ability for the user to re-train the machine learning model
-- Add the ability for the user to download a working serialized model
+- Add the ability for the user to download a working serialized model and dataset
 - Add authentication to the sensitive pages
