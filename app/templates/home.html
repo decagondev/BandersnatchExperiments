@@ -1,7 +1,8 @@
 {% extends "layout.html" %}
 {% block content %}
     <h1>Bloom Institute of Technology</h1>
-    <h3>Engineering Team</h3>
+    <h2>Bandersnatch {{ sprint }}</h2>
+    <h3>Data Science Team</h3>
     <ul>
         <li>Robert Sharp: Systems Designer, DevOps</li>
         <li>April Fairweather: Database Engineer</li>
@@ -18,5 +19,11 @@
         <li>Database: MongoDB</li>
         <li>Graphs: Altair</li>
         <li>Machine Learning: Scikit</li>
+    </ul>
+    <h4>Example Monster</h4>
+    <ul>
+        {% for k, v in monster.items() %}
+            <li>{{ k }}: {{ v }}</li>
+        {% endfor %}
     </ul>
 {% endblock %}

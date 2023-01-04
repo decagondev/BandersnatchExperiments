@@ -17,7 +17,8 @@
 - API Framework
 - Miscellaneous Helper Files
 
-### Top Features
+### Features by URL
+- `/`: Splash Page
 - `/data`: Tabular Data
 - `/view`: Dynamic Visualizations
 - `/model`: Interactive Machine Learning Model
