@@ -39,3 +39,4 @@
 - Use ElephantSQL instead of MongoDB
 - Use Plotly instead of Altair
 - Use PyTorch instead of Scikit
+- Use FastAPI instead of Flask
