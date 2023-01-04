@@ -9,30 +9,28 @@ This database interface will allow you to seed a collection with a specified num
 - Starter File: `app/data.py`
 - Suggested database: MongoDB
 
-### Database Interface Rubric
+### 1. Database Setup
+- [ ] Signup for a MongoDB account: [MongoDB](https://account.mongodb.com)
+- [ ] Create a "Shared Cluster" (free tier)
+- [ ] Add your IP address to the allowed locales list
+- [ ] Copy the connection string into a `.env` file
+    - `DB_URL=mongodb+srv://<username>:<password>@<cluster>.<project_id>.mongodb.net`
 
-#### 1. Functionality
+### 2. Functionality
 - [ ] The seed() function correctly inserts the specified number of documents into the collection.
 - [ ] The reset() function correctly deletes all documents from the collection.
 - [ ] The count() function correctly returns the number of documents in the collection.
 - [ ] The dataframe() function correctly returns a DataFrame containing all documents in the collection.
 - [ ] The html_table() function correctly returns an HTML table representation of the DataFrame, or None if the collection is empty.
 
-#### 2. Security
+### 3. Security
 - [ ] The database URL is stored in an environment variable and is not hardcoded into the component.
 - [ ] The TLS certificate authority file is properly configured and used to establish a secure connection to the database.
 
-#### 3. Documentation & Style
+### 4. Documentation & Style
 - [ ] The code includes docstrings explaining the purpose and behavior of each component.
 - [ ] The code includes no extraneous comments and no inline print statements.
 - [ ] The code follows PEP style guide.
-
-### Database Setup
-1. Signup for a MongoDB account
-2. Create a "Shared Cluster" (free tier)
-3. Add your IP address to the allowed locales list
-4. Copy the connection string into a `.env` file
-    - `DB_URL=mongodb+srv://<username>:<password>@<cluster>.<project_id>.mongodb.net`
 
 ### Required Methods
 - `.seed(amount)`
@@ -100,10 +98,10 @@ if __name__ == '__main__':
 ---
 
 ### B. Generate Random Data
-1. Use the MonsterLab library to generate random data
-2. Store the generated data in a csv file
-3. Practice statistical analysis in a notebook
-4. What can we learn about the data?
+- [ ] Use the MonsterLab library to generate random data
+- [ ] Store the generated data in a csv file
+- [ ] Practice statistical analysis in a notebook
+- [ ] What can we learn about the data?
 
 ```python
 from pandas import DataFrame
@@ -118,6 +116,6 @@ print(df)
 ---
 
 ### C. Populate the Database
-1. Use the database interface `seed(amount)` method to populate the database
-2. Varify the number of rows created with the `count()` method
-3. Get ready for next Sprint - create a notebook for planning data visualization
+- [ ] Use the database interface `seed(amount)` method to populate the database
+- [ ] Varify the number of rows created with the `count()` method
+- [ ] Get ready for the next Sprint - create a notebook for data visualization
