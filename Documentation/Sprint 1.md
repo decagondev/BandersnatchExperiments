@@ -7,7 +7,7 @@ This database interface will allow you to seed a collection with a specified num
 
 ## A. Implement a Database Interface
 - Starter File: `app/data.py`
-- Suggested database: MongoDB
+- Suggested Database: MongoDB
 
 ### 1. Database Setup
 - [ ] Signup for a MongoDB account: [MongoDB](https://account.mongodb.com)
