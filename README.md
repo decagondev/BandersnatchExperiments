@@ -1,5 +1,8 @@
 # Bandersnatch Project
 
+Read the Documentation for information on how to get started.
+
+
 ### Tech Stack
 - Logic: Python3
 - API Framework: Flask
