@@ -1,4 +1,4 @@
-# Build Sprint 3
+# Build Sprint 3: Machine Learning Model
 
 To begin work on this ticket, make sure you have finished:
 - Getting locally setup.
