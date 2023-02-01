@@ -8,10 +8,10 @@ To begin work on this ticket, make sure you have finished:
 ## Objective
 
 Machine Learning Model
-	- Notebook exploration
-	- Machine Learning interface class
-	- Model serialization (save and open)
-	- API model integration
+- Notebook exploration
+- Machine Learning interface class
+- Model serialization (save and open)
+- API model integration
 
 To see what your final output should be, navigate to `/model` on the [deployed site](https://bandersnatch.herokuapp.com/).
 
