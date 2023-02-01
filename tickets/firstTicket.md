@@ -2,7 +2,7 @@
 
 To begin work on this ticket, make sure you have finished:
 - Getting locally setup.
-- Completed the onboarding module on Canvas.
+- Completed the onboarding module in your course.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ Access `app/data.py`, where you will add your code for this ticket.
 Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
 ## Deliverables
-Submit the following on Canvas:
+Submit the following in your course:
 • Link to your forked repo with the added code for the landing page
 • Link to a Loom video answering the prompt in the Canvas assignment
 
