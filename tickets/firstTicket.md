@@ -45,6 +45,11 @@ Access `app/data.py`, where you will add your code for this ticket.
 
 Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
+## Deliverables
+Submit the following on Canvas:
+• Link to your forked repo with the added code for the landing page
+• Link to a Loom video answering the prompt in the Canvas assignment
+
 
 #### Example Database Interface: CRUD Operations
 ```python
