@@ -2,7 +2,7 @@
 
 To begin work on this ticket, make sure you have finished:
 - Getting locally setup.
-- Completed the onboarding module on Canvas.
+- Completed the onboarding module in your course.
 - Finished Build Sprint 1.
 
 ## Objective
@@ -21,7 +21,7 @@ Access `app/graph.py`, where you will add your code for this ticket.
 
 ## Deliverables
 
-Submit the following on Canvas:
+Submit the following in your course:
 - Link to your forked repo with the added code for the landing page
 - Link to a Loom video answering the prompt in the Canvas assignment
 
