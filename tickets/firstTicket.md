@@ -7,9 +7,9 @@ To begin work on this ticket, make sure you have finished:
 ## Objective
 
 Database Operations
-	- Develop a database interface class
-	- Create random data
-	- Populate the database with at least 1000 datapoints
+- Develop a database interface class
+- Create random data
+- Populate the database with at least 1000 datapoints
 
 To see what your final output should be, navigate to `/data` on the [deployed site](https://bandersnatch.herokuapp.com/).
 
