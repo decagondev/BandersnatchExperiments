@@ -8,9 +8,9 @@ To begin work on this ticket, make sure you have finished:
 ## Objective
 
 Dynamic Visualizations
-	- Notebook exploration
-	- Chart function
-	- API integration
+- Notebook exploration
+- Chart function
+- API integration
 
 To see what your final output should be, navigate to `/view` on the [deployed site](https://bandersnatch.herokuapp.com/).
 
