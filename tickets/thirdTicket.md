@@ -1,8 +1,8 @@
 # Build Sprint 3: Machine Learning Model
 
-To begin work on this ticket, make sure you have finished:
-- Getting locally setup.
-- Completed the onboarding module on Canvas.
+To begin work on this ticket, make sure you have:
+- Finished getting locally setup.
+- Completed the onboarding in your course.
 - Finished Build Sprint 1 and 2.
 
 ## Objective
@@ -22,7 +22,7 @@ Access `app/machine.py`, where you will add your code for this ticket.
 Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
 ## Deliverables
-Submit the following to Canvas:
+Submit the following in your course:
 - Link to your forked repo with the added code
 - Link to a Loom video answering the prompt in the canvas assignment
 
