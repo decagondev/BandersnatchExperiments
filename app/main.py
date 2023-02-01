@@ -1,3 +1,4 @@
+from base64 import b64decode
 import os
 
 from Fortuna import random_int, random_float
@@ -19,6 +20,7 @@ def home():
         "home.html",
         sprint=f"Sprint {SPRINT}",
         monster=Monster().to_dict(),
+        password=b64decode(b"VGFuZ2VyaW5lIERyZWFt"),
     )
 
 
