@@ -12,6 +12,18 @@ To begin work on this ticket, make sure you have finished:
 
 To see what your final output should be, navigate to `/data` on the [deployed site](https://bandersnatch.herokuapp.com/).
 
+## Relevant Files
+
+Access `app/data.py`, where you will add your code for this ticket. 
+
+Stuck? Post in `labs-ds` or open a support ticket in the Hub!
+
+## Deliverables
+Submit the following on Canvas:
+• Link to your forked repo with the added code for the landing page
+• Link to a Loom video answering the prompt in the Canvas assignment
+
+
 ## Guidance
 
 Once you have completed all prerequisites, you will need to create a database interface. This database interface will allow you to seed a collection with a specified number of documents, reset the collection by deleting all documents, count the number of documents in the collection, and generate a DataFrame or HTML table representation of the collection's documents. It uses the MongoClient library to connect to a MongoDB database, and the pandas library to generate a DataFrame. The database connection URL should be stored in environment variable for security.
@@ -38,18 +50,6 @@ Once you have completed all prerequisites, you will need to create a database in
 - [ ] The code includes docstrings explaining the purpose and behavior of each component.
 - [ ] The code includes no extraneous comments and no inline print statements.
 - [ ] The code follows PEP style guide.
-
-## Relevant Files
-
-Access `app/data.py`, where you will add your code for this ticket. 
-
-Stuck? Post in `labs-ds` or open a support ticket in the Hub!
-
-## Deliverables
-Submit the following on Canvas:
-• Link to your forked repo with the added code for the landing page
-• Link to a Loom video answering the prompt in the Canvas assignment
-
 
 #### Example Database Interface: CRUD Operations
 ```python
