@@ -22,8 +22,9 @@ Access `app/graph.py`, where you will add your code for this ticket.
 ## Deliverables
 
 Submit the following in your course:
+
 - Link to your forked repo with the added code for the landing page
-- Link to a Loom video answering the prompt in the Canvas assignment
+- Link to a Loom video answering the prompt in in the `Submit Your Deliverables` Assignment in your course
 
 Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
