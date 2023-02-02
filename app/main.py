@@ -94,3 +94,7 @@ def model():
         prediction=prediction,
         confidence=f"{confidence:.2%}",
     )
+
+
+if __name__ == '__main__':
+    APP.run()
