@@ -24,7 +24,7 @@ Access `app/graph.py`, where you will add your code for this ticket.
 Submit the following in your course:
 
 - Link to your forked repo with the added code for the landing page
-- Link to a Loom video answering the prompt in in the `Submit Your Deliverables` Assignment in your course
+- Link to a Loom video answering the prompt in the `Submit Your Deliverables` Assignment in your course
 
 Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
@@ -48,8 +48,8 @@ Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 
 ### C. API Graph Integration
 - [ ] Make sure the graph is being serialized correctly using the `.to_json()` method
-- [ ] This should be automatic, double check by running the web app locally
-- [ ] Does the graph look good?
+- [ ] The display of the graph should be fairly automatic, double check by running the web app locally
+- [ ] Does the graph look good in the context of the Bandersnatch dark web theme?
 
 #### Example Chart
 ```python
@@ -70,4 +70,4 @@ def chart(df: DataFrame, x: str, y: str, target: str) -> Chart:
     return graph
 
 ```
-Properties and configuration need to be added such that, the chart looks good on the Bandersnatch web app. This is subjective.
+Properties and configuration need to be added such that, the chart looks good on Bandersnatch. This is totally subjective, and in the end - you will be the judge.

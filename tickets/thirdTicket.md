@@ -65,8 +65,8 @@ class Machine:
 ```
 
 ### C. Model Serialization
-- [ ] Does the save function properly save the machine learning model to the specified filepath using joblib?
-- [ ] Does the open function properly load a saved machine learning model from the specified filepath using joblib?
+- [ ] Does `save()` properly save the machine learning model to the specified filepath using joblib?
+- [ ] Does `open()` properly load a saved machine learning model from the specified filepath using joblib?
 
 ### D. API Model Integration
-- [ ] Does the info function return a string with the name of the base model and the timestamp of when it was initialized?
+- [ ] Does `info()` return a string with the name of the base model and the timestamp of when it was initialized?
