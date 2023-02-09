@@ -29,6 +29,8 @@ Submit the following in your course:
 
 Once you have completed all prerequisites, you will need to create a database interface. This database interface will allow you to seed a collection with a specified number of documents, reset the collection by deleting all documents, count the number of documents in the collection, and generate a DataFrame or HTML table representation of the collection's documents. It uses the MongoClient library to connect to a MongoDB database, and the pandas library to generate a DataFrame. The database connection URL should be stored in environment variable for security.
 
+The `main.py` file has a global variable `SPRINT`. You should set this variable to an integer value that represents what sprint you're currently working on. When you first clone the project this is set to 0. This keeps unimplemented features that you haven't encountered yet from causing issues before you're ready for them. Set `SPRINT` to 1 before you begin coding, then increment it as you progress through the Sprints.
+
 ### 1. Database Setup
 - [ ] Signup for a MongoDB account: [MongoDB](https://account.mongodb.com)
 - [ ] Create a "Shared Cluster" (free tier)
