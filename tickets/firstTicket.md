@@ -7,8 +7,8 @@ To begin work on this ticket, make sure you have finished:
 ## Objectives
 
 - Develop a database interface class
-- Create random data
-- Populate the database with at least 1000 datapoints
+- Create random monster data with the MonsterLab library
+- Populate the database with at least 1000 monsters
 
 To see what your final output should be, navigate to `/data` on the [deployed site](https://bandersnatch.herokuapp.com/).
 
