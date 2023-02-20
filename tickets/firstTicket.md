@@ -104,28 +104,3 @@ if __name__ == '__main__':
     print(DataFrame(db.read_many({})))
 
 ```
-
----
-
-### B. Generate Random Data
-- [ ] Use the MonsterLab library to generate random data
-- [ ] Store the generated data in a csv file
-- [ ] Practice statistical analysis in a notebook
-- [ ] What can we learn about the data?
-
-```python
-from pandas import DataFrame
-from MonsterLab import Monster
-
-
-df = DataFrame(Monster().to_dict() for _ in range(10))
-print(df)
-
-```
-
----
-
-### C. Populate the Database
-- [ ] Use the database interface `seed(amount)` method to populate the database
-- [ ] Varify the number of rows created with the `count()` method
-- [ ] Get ready for the next Sprint - create a notebook for data visualization
