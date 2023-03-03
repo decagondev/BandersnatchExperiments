@@ -36,9 +36,9 @@ Stuck? Post in `labs-ds` or open a support ticket in the Hub!
 - [ ] Check the Altair documentation for ideas
 
 ### B. Implement Chart Function
-- Starter File: `app/graph.py`
-- Suggested Graphing Library: Altair
-- Function Signature: `chart(df: DataFrame, x: str, y: str, target: str) -> Chart`
+- [ ] Starter File: `app/graph.py`
+- [ ] Suggested Graphing Library: Altair
+- [ ] Function Signature: `chart(df: DataFrame, x: str, y: str, target: str) -> Chart`
 
 - [ ] Is the function definition correct, including the correct parameters of a DataFrame, two strings for x and y, and a string for target? 
 - [ ] Is the properties dictionary complete, including four keys and their corresponding values for width, height, background, and padding? 
